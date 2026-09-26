@@ -304,7 +304,7 @@
     }
     const placements = [
       [-10, -18, "end", "GPT-6 Astra · high"],
-      [-10, 24, "end", "GPT-5.6 Sol · xhigh"],
+      [-10, 24, "end", "Claude Opus 5.5 · xhigh"],
       [10, -16, "start", "GLM 5.3 Flash"],
     ];
     landmarkRuns.forEach((run, i) => {
