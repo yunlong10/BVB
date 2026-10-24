@@ -1,0 +1,15 @@
+{"qa_id": "900001", "answers": ["floor", "floor", "floor", "floor", "floor"], "correct_votes": 5, "votes": 5, "source_correct": true}
+{"qa_id": "900002", "answers": ["standing height", "standing height", "standing height", "standing height", "standing height"], "correct_votes": 0, "votes": 5, "source_correct": false}
+{"qa_id": "900003", "answers": ["whole office", "whole office", "whole office", "whole office", "whole office"], "correct_votes": 0, "votes": 5, "source_correct": false}
+{"qa_id": "900004", "answers": ["windows", "windows", "windows", "windows", "windows"], "correct_votes": 5, "votes": 5, "source_correct": true}
+{"qa_id": "900005", "answers": ["book, window shade, soda can, whiteboard", "book, window shade, soda can, whiteboard", "window shade, soda can, book, whiteboard", "window shade, soda can, book, whiteboard", "window shade, soda can, book, whiteboard"], "correct_votes": 2, "votes": 5, "source_correct": false}
+{"qa_id": "900006", "answers": ["soda can", "soda can", "soda can", "soda can", "soda can"], "correct_votes": 5, "votes": 5, "source_correct": true}
+{"qa_id": "900007", "answers": ["book", "book", "book", "book", "book"], "correct_votes": 5, "votes": 5, "source_correct": true}
+{"qa_id": "900008", "answers": ["roller shades", "roller shades", "roller shades", "roller shades", "roller shades"], "correct_votes": 5, "votes": 5, "source_correct": true}
+{"qa_id": "900009", "answers": ["exposed ceiling with ducts", "exposed ceiling with ducts", "exposed ceiling with ducts", "exposed ceiling with ducts", "exposed ceiling with ducts"], "correct_votes": 5, "votes": 5, "source_correct": true}
+{"qa_id": "900010", "answers": ["whiteboard", "whiteboard", "whiteboard", "whiteboard", "whiteboard"], "correct_votes": 5, "votes": 5, "source_correct": true}
+{"qa_id": "900011", "answers": ["1", "1", "1", "1", "1"], "correct_votes": 0, "votes": 5, "source_correct": false}
+{"qa_id": "900012", "answers": ["next to the windows", "next to the windows", "next to the windows", "next to the windows", "next to the windows"], "correct_votes": 5, "votes": 5, "source_correct": true}
+{"qa_id": "900013", "answers": ["right", "right", "right", "right", "right"], "correct_votes": 5, "votes": 5, "source_correct": true}
+{"qa_id": "900014", "answers": ["on the window ledge", "on the window ledge", "on the window ledge", "on the window ledge", "on the window ledge"], "correct_votes": 5, "votes": 5, "source_correct": true}
+{"qa_id": "900015", "answers": ["long rows of connected desks", "long rows of connected desks", "long rows", "long rows of connected desks", "long rows of connected desks"], "correct_votes": 5, "votes": 5, "source_correct": true}

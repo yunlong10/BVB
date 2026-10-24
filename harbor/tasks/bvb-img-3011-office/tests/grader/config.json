@@ -1,0 +1,9 @@
+{
+  "judge_model": "gpt-5.4-mini",
+  "n_frames": 16,
+  "votes": 5,
+  "render_frames": 16,
+  "resolution": 512,
+  "render_timeout_sec": 4800,
+  "min_meshes": 10
+}
